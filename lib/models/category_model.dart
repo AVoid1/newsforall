@@ -1,4 +1,4 @@
 class CategoryModel {
-  late String categoryName;
-  late String imageUrl;
+  String categoryName;
+  String imageUrl;
 }

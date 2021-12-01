@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class CaategoryView extends StatefulWidget {
-  const CaategoryView({Key? key}) : super(key: key);
+  const CaategoryView({Key key}) : super(key: key);
 
   @override
   _CaategoryViewState createState() => _CaategoryViewState();
